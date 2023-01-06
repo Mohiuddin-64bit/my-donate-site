@@ -183,3 +183,38 @@ header {
   border-radius: 5px;
   margin-bottom: 90px;
 }
+.news-latter{
+  text-align: center;
+}
+.news-title{
+  
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.news-desc{
+  color: rgb(114, 113, 113);
+  margin-bottom: 100px;
+}
+.news-email{
+  display: inline;
+  background-color: #FFF4D6;
+  padding: 76px 188px;
+
+}
+.news-email input{
+  padding: 15px 50px;
+  border: none;
+  outline: none;
+  background-color: #D9D9D9;
+  border-radius: 5px 0px 0px 5px;
+}
+.news-btn{
+  padding: 15px 20px;
+  border: none;
+  background-color: #FF5959;
+  outline: none;
+  font-size: 12px;
+  font-weight: 500;
+  color: #D9D9D9;
+}
