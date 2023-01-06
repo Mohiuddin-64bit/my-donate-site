@@ -96,3 +96,48 @@ header {
   margin-top: 30px;
   margin-bottom: 140px;
 }
+/* Out Donate plan start */
+
+.our-plan{
+  width: 1200px;
+  height: 600px;
+  margin: auto ;
+}
+.plan-title{
+  text-align: center;
+  font-weight: 900;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.plan-desc{
+  text-align: center;
+  color: rgb(114, 113, 113);
+}
+.plan-card{
+  display: flex;
+  margin-top: 30px;
+  gap: 20px;
+
+}
+
+.plan-card .food{
+  background-color: rgba(181, 181, 255, 0.349);
+  padding: 90px 20px;
+  border-radius: 5px;
+
+}
+.plan-card .shelter{
+  background-color: rgba(255, 192, 203, 0.589);
+  padding: 90px 20px;
+  border-radius: 5px;
+
+}
+.plan-card .education{
+  background-color: rgba(255, 255, 181, 0.459);
+  padding: 90px 20px;
+  border-radius: 5px;
+
+}
+  .card-title{
+    margin: 18px 0;
+  }
